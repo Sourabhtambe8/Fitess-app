@@ -1,0 +1,6 @@
+{
+  "name": "FORM Hybrid Fitness",
+  "description": "Customizable workout planner, rep & weight tracker, progress charts, and daily nutrition tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
